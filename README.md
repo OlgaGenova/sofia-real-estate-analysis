@@ -8,8 +8,8 @@ The market data reflects publicly available listings as of June 2026.
 
 ## Reports
 
-* [View Real Estate Market Analysis PDF report (ENG)](imot_analysis_eng.pdf)
-* [View Real Estate Market Analysis PDF report (RUS)](imot_analysis_rus.pdf)
+* [View Real Estate Market Analysis PDF report (ENG)](reports/imot_analysis_eng.pdf)
+* [View Real Estate Market Analysis PDF report (RUS)](reports/imot_analysis_rus.pdf)
 
 ## Objective
 
