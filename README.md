@@ -69,4 +69,13 @@ The scraping code and collected CSV files are not publicly included in this repo
 ## Technologies
 
 Python, pandas, NumPy, SciPy, statsmodels, scikit-posthocs, Matplotlib, Seaborn, GeoPandas, Jupyter Notebook, GeoJSON, OpenStreetMap, Overpass API, geojson.io.
+
+## Copyright and Usage
+
+© Olga Genova, 2026. All rights reserved.
+
+This repository is provided as a portfolio project for review purposes only.  
+The report, analysis, visualizations, notebooks, and project structure may not be copied, redistributed, modified, or presented as another person’s work without written permission from the author.
+
+If you reference this project, please credit: Olga Genova — Sofia Residential Real Estate Market Analysis.
 ::: 
