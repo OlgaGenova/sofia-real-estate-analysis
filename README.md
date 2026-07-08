@@ -1,5 +1,9 @@
 # Sofia Residential Real Estate Market Analysis
 
+Author: Olga Genova  
+Portfolio project, June 2026  
+© Olga Genova, 2026. All rights reserved.
+
 ## Project Overview
 
 This project analyzes Sofia's residential real estate market using apartment sale and rental listings, statistical methods, geospatial analysis, and mortgage scenario modeling.
@@ -78,4 +82,3 @@ This repository is provided as a portfolio project for review purposes only.
 The report, analysis, visualizations, notebooks, and project structure may not be copied, redistributed, modified, or presented as another person’s work without written permission from the author.
 
 If you reference this project, please credit: Olga Genova — Sofia Residential Real Estate Market Analysis.
-::: 
